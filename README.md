@@ -1,4 +1,5 @@
 📌 Project Overview
+
 Every scout knows Mbappé, Haaland, and Bellingham. This project finds the players they don't — the ones performing at World Cup level whose market value hasn't caught up to their ability.
 Using data from FBref (performance statistics) and Transfermarkt (market values), I built a position-specific scoring model that ranks players by Transfer Opportunity Score — balancing what they do on the pitch with what they cost.
 Output: Top 5 transfer opportunities per position (FW, MF, DF, GK) with a recommended shortlist for further scouting.
