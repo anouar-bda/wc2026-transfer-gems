@@ -145,6 +145,7 @@ Open `dashboard/WC2026\\\_Hidden\\\_Gems.pbix` in Power BI Desktop
 Anouar Lacheheb
 MSc International Business with Data Analytics | Manchester, UK
 https://www.linkedin.com/in/anouar-lacheheb-328052398/
+
 anouar.aus@gmail.com
 
 Built for football. Driven by data.
