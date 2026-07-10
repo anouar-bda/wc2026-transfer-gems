@@ -1,4 +1,4 @@
-![Dashboard Preview](Screenshot 2026-07-10 073024.png)
+![Dashboard Preview](dashboard_preview.png)
 
 📌 Project Overview
 
