@@ -3,7 +3,11 @@
 **Finding the players scouts overlook.**
 
 ---
+## Dashboard
 
+![WC2026 Hidden Transfer Gems dashboard](dashboard_preview.png)
+
+---
 ## Project Overview
 
 Every scout knows Mbappé, Haaland, and Bellingham. This project finds the players they don't — the ones performing at World Cup level whose market value hasn't caught up to their ability.
